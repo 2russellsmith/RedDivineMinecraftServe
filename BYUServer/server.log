@@ -1,0 +1,1027 @@
+2015-04-15 01:51:04 [INFO] Starting minecraft server version 1.4.7
+2015-04-15 01:51:06 [INFO] Loading properties
+2015-04-15 01:51:06 [WARNING] server.properties does not exist
+2015-04-15 01:51:06 [INFO] Generating new properties file
+2015-04-15 01:51:06 [INFO] Default game type: SURVIVAL
+2015-04-15 01:51:06 [INFO] Generating keypair
+2015-04-15 01:51:06 [INFO] Starting Minecraft server on *:25565
+2015-04-15 01:51:08 [WARNING] Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
+2015-04-15 01:51:08 [WARNING] Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
+2015-04-15 01:51:08 [INFO] Preparing level "world"
+2015-04-15 01:51:09 [INFO] Preparing start region for level 0
+2015-04-15 01:51:10 [INFO] Preparing spawn area: 11%
+2015-04-15 01:51:11 [INFO] Preparing spawn area: 29%
+2015-04-15 01:51:12 [INFO] Preparing spawn area: 47%
+2015-04-15 01:51:13 [INFO] Preparing spawn area: 65%
+2015-04-15 01:51:14 [INFO] Preparing spawn area: 87%
+2015-04-15 01:51:14 [INFO] Done (6.286s)! For help, type "help" or "?"
+2015-04-15 01:51:14 [INFO] Damage Indicators Mod Mod v.1.0.0.0 is up to date.
+2015-04-15 01:51:20 [INFO] Stopping server
+2015-04-15 01:51:20 [INFO] Saving players
+2015-04-15 01:51:20 [INFO] Saving worlds
+2015-04-15 01:51:20 [INFO] Saving chunks for level 'world'/Overworld
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Nether
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/The End
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Iceika
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Arcana
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Augite
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Mythril
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Uvite
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Azurite
+2015-04-15 01:51:21 [INFO] Saving chunks for level 'world'/Dravite
+2015-04-15 01:54:38 [INFO] Starting minecraft server version 1.4.7
+2015-04-15 01:54:40 [INFO] Loading properties
+2015-04-15 01:54:40 [INFO] Default game type: SURVIVAL
+2015-04-15 01:54:40 [INFO] Generating keypair
+2015-04-15 01:54:41 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-15 01:54:41 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-15 01:54:41 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-15 01:54:41 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-15 01:54:41 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-15 01:54:42 [INFO] Preparing level "BYU"
+2015-04-15 01:54:42 [SEVERE] Encountered an unexpected exception IllegalArgumentException
+java.lang.IllegalArgumentException: Too big view radius!
+	at ik.<init>(SourceFile:144)
+	at in.<init>(WorldServer.java:106)
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:266)
+	at ho.c(DedicatedServer.java:179)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:458)
+	at fy.run(SourceFile:849)
+2015-04-15 01:54:42 [SEVERE] This crash report has been saved to: C:\Users\Russell\Desktop\BYUServer\.\crash-reports\crash-2015-04-15_01.54.42-server.txt
+2015-04-15 01:54:52 [INFO] Stopping server
+2015-04-15 01:54:52 [INFO] Saving players
+2015-04-15 01:54:52 [INFO] Saving worlds
+2015-04-15 01:55:28 [INFO] Starting minecraft server version 1.4.7
+2015-04-15 01:55:30 [INFO] Loading properties
+2015-04-15 01:55:30 [INFO] Default game type: SURVIVAL
+2015-04-15 01:55:30 [INFO] Generating keypair
+2015-04-15 01:55:31 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-15 01:55:31 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-15 01:55:31 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-15 01:55:31 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-15 01:55:31 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-15 01:55:32 [INFO] Preparing level "BYU"
+2015-04-15 01:55:32 [SEVERE] Encountered an unexpected exception IllegalArgumentException
+java.lang.IllegalArgumentException: Too big view radius!
+	at ik.<init>(SourceFile:144)
+	at in.<init>(WorldServer.java:106)
+	at net.minecraft.server.MinecraftServer.a(MinecraftServer.java:266)
+	at ho.c(DedicatedServer.java:179)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:458)
+	at fy.run(SourceFile:849)
+2015-04-15 01:55:32 [SEVERE] This crash report has been saved to: C:\Users\Russell\Desktop\BYUServer\.\crash-reports\crash-2015-04-15_01.55.32-server.txt
+2015-04-15 01:55:37 [INFO] Stopping server
+2015-04-15 01:55:37 [INFO] Saving players
+2015-04-15 01:55:37 [INFO] Saving worlds
+2015-04-15 01:56:05 [INFO] Starting minecraft server version 1.4.7
+2015-04-15 01:56:07 [INFO] Loading properties
+2015-04-15 01:56:07 [INFO] Default game type: SURVIVAL
+2015-04-15 01:56:07 [INFO] Generating keypair
+2015-04-15 01:56:08 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-15 01:56:08 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-15 01:56:08 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-15 01:56:08 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-15 01:56:08 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-15 01:56:09 [INFO] Preparing level "BYU"
+2015-04-15 01:56:10 [INFO] Preparing start region for level 0
+2015-04-15 01:56:11 [INFO] Done (1.250s)! For help, type "help" or "?"
+2015-04-15 01:56:11 [INFO] Damage Indicators Mod Mod v.1.0.0.0 is up to date.
+2015-04-15 01:59:23 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 01:59:23 [INFO] Russ[/25.44.66.56:52037] logged in with entity id 290 at (-132.63764954340667, 69.0, 245.41970217040654)
+2015-04-15 01:59:27 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 01:59:27 [INFO] Pyro[/25.138.33.208:62234] logged in with entity id 1941 at (-129.5, 64.62000000476837, 253.5)
+2015-04-15 02:00:03 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 02:00:09 [INFO] Russ lost connection: disconnect.quitting
+2015-04-15 02:00:20 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 02:00:20 [INFO] Pyro[/25.138.33.208:62241] logged in with entity id 4359 at (-129.5181391130448, 68.0, 257.49638257453876)
+2015-04-15 02:00:26 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 02:00:29 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 02:00:29 [INFO] Pyro[/25.138.33.208:62247] logged in with entity id 4904 at (-129.5181391130448, 68.0, 257.49638257453876)
+2015-04-15 02:01:34 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 02:01:34 [INFO] Russ[/25.44.66.56:52062] logged in with entity id 8810 at (-133.59585907163216, 69.0, 246.08275325943373)
+2015-04-15 02:06:00 [INFO] Unknown command. Try /help for a list of commands.
+2015-04-15 02:06:06 [INFO] Unknown command. Try /help for a list of commands.
+2015-04-15 02:06:12 [INFO] Unknown command. Try /help for a list of commands.
+2015-04-15 02:06:15 [INFO] --- Showing help page 1 of 6 (/help <page>) ---
+2015-04-15 02:06:15 [INFO] /ban <name> [reason ...]
+2015-04-15 02:06:15 [INFO] /ban-ip <address|name> [reason ...]
+2015-04-15 02:06:15 [INFO] /banlist [ips|players]
+2015-04-15 02:06:15 [INFO] /clear <player> [item] [data]
+2015-04-15 02:06:15 [INFO] /debug
+2015-04-15 02:06:15 [INFO] /defaultgamemode <mode>
+2015-04-15 02:06:15 [INFO] /deop <player>
+2015-04-15 02:06:22 [INFO] Opped Russ
+2015-04-15 02:06:29 [INFO] Opped Pyro
+2015-04-15 02:06:34 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 02:06:47 [INFO] Unknown command. Try /help for a list of commands.
+2015-04-15 02:06:58 [INFO] [Pyro: Enchanting succeeded]
+2015-04-15 02:07:24 [INFO] [Pyro: Enchanting succeeded]
+2015-04-15 02:07:44 [INFO] [Pyro: Set the time to 0]
+2015-04-15 02:08:12 [INFO] [Russ: Given Nikolite (ID 9258) * 64 to Russ]
+2015-04-15 02:08:16 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 02:08:37 [INFO] [Russ: Given Chest (ID 54) * 64 to Russ]
+2015-04-15 02:08:41 [INFO] [Russ: Given Chest (ID 54) * 1 to Russ]
+2015-04-15 02:08:53 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 02:09:03 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 02:09:03 [INFO] Pyro[/25.138.33.208:62344] logged in with entity id 29247 at (-133.77507802792695, 69.0, 237.05674732562932)
+2015-04-15 02:09:15 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 02:09:21 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 02:09:23 [INFO] [Pyro: Power V can't be combined with Power III]
+2015-04-15 02:09:43 [INFO] [Pyro: Power II can't be combined with Power III]
+2015-04-15 02:10:11 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 02:10:22 [INFO] [Pyro: Given item.serenitybow.name (ID 5495) * 1 to Pyro]
+2015-04-15 02:10:38 [INFO] [Pyro: Enchanting succeeded]
+2015-04-15 02:10:47 [INFO] [Pyro: Enchanting succeeded]
+2015-04-15 02:11:15 [INFO] [Pyro: Enchanting succeeded]
+2015-04-15 02:11:42 [INFO] [Pyro: Enchanting succeeded]
+2015-04-15 02:11:53 [INFO] [Pyro: Enchanting succeeded]
+2015-04-15 02:12:13 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 02:12:43 [INFO] [Russ: Given Orange Dye (ID 351) * 64 to Russ]
+2015-04-15 02:13:03 [INFO] [Russ: Given Orange Dye (ID 351) * 1 to Russ]
+2015-04-15 02:13:18 [INFO] [Russ: Given Pink Dye (ID 351) * 1 to Russ]
+2015-04-15 02:13:20 [INFO] [Russ: Given Cyan Dye (ID 351) * 1 to Russ]
+2015-04-15 02:13:26 [INFO] [Russ: Given Light Blue Dye (ID 351) * 1 to Russ]
+2015-04-15 02:13:26 [INFO] [Russ: Given Lime Dye (ID 351) * 1 to Russ]
+2015-04-15 02:13:33 [INFO] [Pyro: Set the time to 24000]
+2015-04-15 02:14:32 [INFO] [Russ: Given item.bedrockbody.name (ID 5266) * 1 to Russ]
+2015-04-15 02:14:35 [INFO] [Russ: Given item.bedrockhead.name (ID 5265) * 1 to Russ]
+2015-04-15 02:14:41 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 02:23:36 [INFO] [Pyro: Set the time to 0]
+2015-04-15 02:28:45 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:45 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:46 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:46 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:46 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:46 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:46 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:47 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:47 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:47 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:47 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:47 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:48 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:48 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:48 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:48 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:48 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:49 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:49 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:49 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:49 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:49 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:28:50 [INFO] [Russ: Given Dirt (ID 3) * 64 to Russ]
+2015-04-15 02:33:39 [INFO] [Russ: Set the time to 24000]
+2015-04-15 02:41:29 [INFO] [Pyro: Given Project Table (ID 253) * 64 to Pyro]
+2015-04-15 02:41:51 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 02:41:56 [INFO] [Pyro: Given Project Table (ID 253) * 1 to Pyro]
+2015-04-15 02:42:04 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 02:43:19 [INFO] [Russ: Given Baked Potato (ID 393) * 64 to Russ]
+2015-04-15 02:44:18 [INFO] [Russ: Set the time to 48000]
+2015-04-15 02:45:42 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 02:45:58 [INFO] [Pyro: Given Blue Alloy Ingot (ID 9259) * 64 to Pyro]
+2015-04-15 02:46:06 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 02:47:05 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 02:47:11 [INFO] [Pyro: Given Blulectric Alloy Furnace (ID 253) * 1 to Pyro]
+2015-04-15 02:47:18 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 02:47:35 [INFO] [Pyro: Given Charging Bench (ID 253) * 64 to Pyro]
+2015-04-15 02:47:52 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 02:48:00 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 02:51:31 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 02:54:45 [INFO] [Russ: Set the time to 72000]
+2015-04-15 02:59:53 [INFO] [Russ: Given Wheat (ID 296) * 64 to Russ]
+2015-04-15 03:01:05 [INFO] [Russ: Given Fence (ID 85) * 64 to Russ]
+2015-04-15 03:04:44 [INFO] [Russ: Given Fence (ID 85) * 64 to Russ]
+2015-04-15 03:04:44 [INFO] [Russ: Given Fence (ID 85) * 64 to Russ]
+2015-04-15 03:04:45 [INFO] [Russ: Given Fence (ID 85) * 64 to Russ]
+2015-04-15 03:04:52 [INFO] [Russ: Set the time to 96000]
+2015-04-15 03:06:44 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:44 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:44 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:45 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:45 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:45 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:47 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:47 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:47 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:06:48 [INFO] [Russ: Given Fence Gate (ID 107) * 1 to Russ]
+2015-04-15 03:15:06 [INFO] [Russ: Set the time to 120000]
+2015-04-15 03:23:07 [INFO] [Russ: Toggled downfall]
+2015-04-15 03:25:22 [INFO] [Russ: Set the time to 144000]
+2015-04-15 03:35:23 [INFO] [Russ: Set the time to 168000]
+2015-04-15 03:42:24 [INFO] [Russ: Given Glowstone (ID 89) * 64 to Russ]
+2015-04-15 03:44:28 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:32 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:32 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:32 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:33 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:33 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:33 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:38 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:38 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:38 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:38 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:38 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:44:39 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 03:46:09 [INFO] [Russ: Set the time to 0]
+2015-04-15 03:56:10 [INFO] [Russ: Set the time to 24000]
+2015-04-15 04:06:24 [INFO] [Russ: Set the time to 48000]
+2015-04-15 04:09:03 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 04:09:03 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 04:09:03 [INFO] [Russ: Given Glass (ID 20) * 64 to Russ]
+2015-04-15 04:16:26 [INFO] [Russ: Set the time to 72000]
+2015-04-15 04:18:26 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 04:23:07 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 04:26:05 [INFO] [Russ: Given Inverted White Lamp (ID 237) * 64 to Russ]
+2015-04-15 04:26:56 [INFO] [Russ: Set the time to 96000]
+2015-04-15 04:42:31 [INFO] [Pyro: Changing to clear weather]
+2015-04-15 04:42:35 [INFO] [Pyro: Set the time to 0]
+2015-04-15 04:51:05 [INFO] [Russ: Given Fence (ID 85) * 64 to Russ]
+2015-04-15 04:53:14 [INFO] [Pyro: Set the time to 0]
+2015-04-15 04:57:47 [WARNING] Pyro moved wrongly!
+2015-04-15 05:03:05 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 05:03:58 [INFO] [Russ: Set the time to 24000]
+2015-04-15 05:04:12 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 05:06:43 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 05:06:51 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 05:14:42 [INFO] [Russ: Set the time to 48000]
+2015-04-15 05:17:56 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-15 05:20:55 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 05:20:55 [INFO] Russ[/25.44.66.56:53784] logged in with entity id 501241 at (-87.06989663307415, 70.0, 257.52540053195867)
+2015-04-15 05:22:27 [INFO] [Russ: Given Indigo Dye (ID 9260) * 64 to Russ]
+2015-04-15 05:22:39 [INFO] [Russ: Given Shears (ID 359) * 1 to Russ]
+2015-04-15 05:26:20 [INFO] [Pyro: Set the time to 0]
+2015-04-15 05:29:04 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 05:36:33 [INFO] [Russ: Set the time to 24000]
+2015-04-15 05:37:04 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 05:47:18 [INFO] [Russ: Set the time to 48000]
+2015-04-15 05:52:30 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 05:54:32 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 06:05:41 [INFO] [Russ: Given Stone Stairs (ID 67) * 64 to Russ]
+2015-04-15 06:08:11 [INFO] Russ lost connection: disconnect.quitting
+2015-04-15 12:01:40 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 12:01:40 [INFO] Russ[/25.44.66.56:54191] logged in with entity id 623638 at (-136.37000498861528, 81.1116330269739, 242.7136395494157)
+2015-04-15 12:26:35 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 12:26:35 [INFO] Pyro[/25.138.33.208:62704] logged in with entity id 670844 at (-78.47432665271148, 67.0, 265.54023309095487)
+2015-04-15 12:36:22 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-15 12:37:30 [INFO] [Pyro: Set the time to 0]
+2015-04-15 12:44:48 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 12:44:53 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 12:44:53 [INFO] Pyro[/25.138.33.208:62750] logged in with entity id 707623 at (-79.07968469233991, 70.0, 263.31833044254955)
+2015-04-15 12:45:35 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 12:45:35 [INFO] Russ[/25.44.66.56:49210] logged in with entity id 708680 at (-139.80702679467996, 89.47676830798105, 209.6285872506227)
+2015-04-15 12:47:54 [INFO] [Russ: Set the time to 24000]
+2015-04-15 12:52:49 [INFO] [Russ: Given Inverted White Lamp (ID 237) * 64 to Russ]
+2015-04-15 12:52:59 [INFO] [Russ: Given Inverted White Lamp (ID 237) * 1 to Russ]
+2015-04-15 12:57:54 [INFO] [Pyro: Set the time to 0]
+2015-04-15 13:04:19 [INFO] [Russ: Given Inverted White Cage Lamp (ID 236) * 64 to Russ]
+2015-04-15 13:04:24 [INFO] [Russ: Given Inverted White Cage Lamp (ID 236) * 1 to Russ]
+2015-04-15 13:04:51 [INFO] [Russ: Given Inverted White Cage Lamp (ID 236) * 1 to Russ]
+2015-04-15 13:06:37 [WARNING] Pyro moved wrongly!
+2015-04-15 13:06:59 [INFO] [Russ: Given Inverted White Lamp (ID 237) * 1 to Russ]
+2015-04-15 13:09:47 [INFO] [Pyro: Set the time to 0]
+2015-04-15 13:13:59 [WARNING] Pyro moved wrongly!
+2015-04-15 13:15:01 [WARNING] Pyro moved wrongly!
+2015-04-15 13:16:11 [WARNING] Pyro moved wrongly!
+2015-04-15 13:19:49 [INFO] [Russ: Set the time to 42000]
+2015-04-15 13:20:01 [INFO] [Russ: Set the time to 48000]
+2015-04-15 13:20:15 [INFO] [Russ: Set the time to 90000]
+2015-04-15 13:22:25 [INFO] [Russ: Set the time to 96000]
+2015-04-15 13:22:42 [INFO] [Russ: Given Red Wool (ID 35) * 64 to Russ]
+2015-04-15 13:23:24 [INFO] [Russ: Given Diamond Handsaw (ID 9262) * 1 to Russ]
+2015-04-15 13:23:50 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 13:24:24 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 13:32:40 [INFO] [Russ: Given Inverted Red Cage Lamp (ID 236) * 64 to Russ]
+2015-04-15 13:32:50 [INFO] [Pyro: Set the time to 0]
+2015-04-15 13:32:53 [INFO] [Russ: Given Inverted Red Cage Lamp (ID 236) * 1 to Russ]
+2015-04-15 13:34:49 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 13:37:37 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 13:42:54 [INFO] [Pyro: Set the time to 0]
+2015-04-15 13:46:26 [INFO] [Pyro: Set the time to 0]
+2015-04-15 13:52:29 [INFO] [Russ: Given Inverted Red Lamp (ID 237) * 1 to Russ]
+2015-04-15 13:54:28 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-15 13:57:49 [INFO] [Pyro: Set the time to 0]
+2015-04-15 13:58:11 [WARNING] Pyro moved wrongly!
+2015-04-15 14:08:03 [INFO] [Pyro: Set the time to 0]
+2015-04-15 14:12:41 [INFO] [Pyro: Set the time to 0]
+2015-04-15 14:22:32 [WARNING] Pyro moved wrongly!
+2015-04-15 14:23:10 [INFO] [Pyro: Set the time to 0]
+2015-04-15 14:23:24 [WARNING] Pyro moved wrongly!
+2015-04-15 14:23:30 [WARNING] Pyro moved wrongly!
+2015-04-15 14:31:50 [WARNING] Pyro moved wrongly!
+2015-04-15 14:31:56 [WARNING] Pyro moved wrongly!
+2015-04-15 14:32:03 [WARNING] Pyro moved wrongly!
+2015-04-15 14:32:05 [WARNING] Pyro moved wrongly!
+2015-04-15 14:32:05 [WARNING] Pyro moved wrongly!
+2015-04-15 14:32:26 [WARNING] Pyro moved wrongly!
+2015-04-15 14:33:03 [WARNING] Pyro moved wrongly!
+2015-04-15 14:33:08 [WARNING] Pyro moved wrongly!
+2015-04-15 14:33:39 [INFO] [Pyro: Set the time to 0]
+2015-04-15 14:37:12 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 14:37:49 [INFO] [Pyro: Given Retriever (ID 252) * 64 to Pyro]
+2015-04-15 14:37:54 [INFO] [Pyro: Given Retriever (ID 252) * 1 to Pyro]
+2015-04-15 14:37:55 [INFO] [Pyro: Given Retriever (ID 252) * 1 to Pyro]
+2015-04-15 14:38:17 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 14:45:37 [INFO] [Pyro: Set the time to 0]
+2015-04-15 14:56:15 [INFO] [Pyro: Set the time to 0]
+2015-04-15 14:57:45 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 14:57:45 [INFO] Russ[/25.44.66.56:49468] logged in with entity id 1021640 at (-164.74621221251113, 78.11598286318572, 243.65804491538327)
+2015-04-15 15:04:44 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 15:07:01 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-15 15:09:37 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 15:09:37 [INFO] Russ[/25.44.66.56:49528] logged in with entity id 1043869 at (-145.04983278160867, 74.0, 226.7186981383865)
+2015-04-15 15:13:08 [INFO] [Russ: Given Monitor (ID 233) * 64 to Russ]
+2015-04-15 15:13:16 [INFO] [Russ: Given Central Processing Unit (ID 233) * 1 to Russ]
+2015-04-15 15:13:19 [INFO] [Russ: Given IO Expander (ID 232) * 1 to Russ]
+2015-04-15 15:13:20 [INFO] [Russ: Given Monitor (ID 233) * 1 to Russ]
+2015-04-15 15:13:23 [INFO] [Russ: Given Disk Drive (ID 233) * 1 to Russ]
+2015-04-15 15:13:24 [INFO] [Russ: Given 8K RAM Module (ID 234) * 1 to Russ]
+2015-04-15 15:13:24 [INFO] [Russ: Given 8K RAM Module (ID 234) * 1 to Russ]
+2015-04-15 15:13:28 [INFO] [Russ: Given Sortron (ID 251) * 1 to Russ]
+2015-04-15 15:13:34 [INFO] [Russ: Given Blank Floppy (ID 9342) * 1 to Russ]
+2015-04-15 15:13:52 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 15:14:09 [INFO] [Russ: Given Monitor (ID 233) * 1 to Russ]
+2015-04-15 15:16:31 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 15:16:31 [INFO] Pyro[/25.138.33.208:62939] logged in with entity id 1051525 at (-152.82837827257893, 74.0, 227.48532676940965)
+2015-04-15 15:19:12 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 15:19:49 [INFO] Russ lost connection: disconnect.quitting
+2015-04-15 15:26:46 [INFO] [Pyro: Set the time to 0]
+2015-04-15 15:26:52 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 15:30:59 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 15:37:48 [INFO] [Pyro: Set the time to 0]
+2015-04-15 15:48:32 [INFO] [Pyro: Set the time to 0]
+2015-04-15 15:59:06 [INFO] [Pyro: Set the time to 0]
+2015-04-15 16:09:33 [INFO] [Pyro: Set the time to 0]
+2015-04-15 16:19:51 [INFO] [Pyro: Set the time to 0]
+2015-04-15 16:26:53 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 16:27:31 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 16:27:31 [INFO] Pyro[/25.138.33.208:63031] logged in with entity id 1212701 at (-150.43200439597916, 74.0, 227.30533259505845)
+2015-04-15 16:30:43 [INFO] [Pyro: Set the time to 0]
+2015-04-15 16:41:54 [INFO] [Pyro: Set the time to 0]
+2015-04-15 16:52:08 [INFO] [Pyro: Set the time to 0]
+2015-04-15 16:52:35 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 16:54:08 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 17:02:38 [INFO] [Pyro: Set the time to 0]
+2015-04-15 17:06:12 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 17:06:12 [INFO] Russ[/25.44.66.56:50246] logged in with entity id 1320877 at (-144.32996866092165, 74.0, 218.42319466130624)
+2015-04-15 17:07:48 [INFO] [Russ: Given Backplane (ID 234) * 1 to Russ]
+2015-04-15 17:07:49 [INFO] [Russ: Given Backplane (ID 234) * 1 to Russ]
+2015-04-15 17:08:00 [INFO] [Russ: Given Blank Floppy (ID 9342) * 1 to Russ]
+2015-04-15 17:10:19 [INFO] [Russ: Given 8K RAM Module (ID 234) * 1 to Russ]
+2015-04-15 17:10:21 [INFO] [Russ: Given 8K RAM Module (ID 234) * 1 to Russ]
+2015-04-15 17:11:01 [INFO] [Russ: Given Disk Drive (ID 233) * 1 to Russ]
+2015-04-15 17:11:23 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-15 17:12:11 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-15 17:13:21 [INFO] [Pyro: Set the time to 0]
+2015-04-15 17:15:35 [INFO] [Russ: Given Chest (ID 54) * 1 to Russ]
+2015-04-15 17:24:00 [INFO] [Pyro: Set the time to 0]
+2015-04-15 17:34:24 [INFO] [Pyro: Set the time to 0]
+2015-04-15 17:42:04 [INFO] [Pyro: Set the time to 0]
+2015-04-15 17:53:45 [INFO] [Pyro: Set the time to 0]
+2015-04-15 17:59:52 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 18:00:52 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 18:04:18 [INFO] [Pyro: Set the time to 0]
+2015-04-15 18:15:18 [INFO] [Pyro: Set the time to 0]
+2015-04-15 18:25:51 [INFO] [Pyro: Set the time to 0]
+2015-04-15 18:32:02 [INFO] Pyro lost connection: disconnect.genericReason
+2015-04-15 18:32:17 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 18:32:17 [INFO] Pyro[/25.138.33.208:63200] logged in with entity id 1590979 at (-126.49581854533574, 72.0, 288.03079114334855)
+2015-04-15 18:36:29 [INFO] [Pyro: Set the time to 0]
+2015-04-15 18:39:16 [INFO] [Pyro: Changing to rainy weather]
+2015-04-15 18:40:39 [INFO] [Pyro: Changing to clear weather]
+2015-04-15 18:46:44 [INFO] [Pyro: Set the time to 0]
+2015-04-15 18:57:27 [INFO] [Russ: Given Sand (ID 12) * 1 to Russ]
+2015-04-15 18:57:55 [INFO] <Pyro> translation: she needs your attention to survive :p
+2015-04-15 18:58:05 [INFO] [Pyro: Set the time to 0]
+2015-04-15 18:58:05 [INFO] [Russ: Given Dirt (ID 3) * 1 to Russ]
+2015-04-15 19:21:42 [WARNING] Pyro moved wrongly!
+2015-04-15 19:22:04 [INFO] Russ lost connection: disconnect.quitting
+2015-04-15 19:24:25 [WARNING] Pyro moved wrongly!
+2015-04-15 19:24:32 [WARNING] Pyro moved wrongly!
+2015-04-15 19:24:38 [WARNING] Pyro moved wrongly!
+2015-04-15 19:25:30 [WARNING] Pyro moved wrongly!
+2015-04-15 19:26:54 [WARNING] Pyro moved wrongly!
+2015-04-15 19:28:10 [WARNING] Pyro moved wrongly!
+2015-04-15 19:28:25 [INFO] [Pyro: Set the time to 0]
+2015-04-15 19:29:08 [WARNING] Pyro moved wrongly!
+2015-04-15 19:29:08 [WARNING] Pyro moved wrongly!
+2015-04-15 19:31:42 [WARNING] Pyro moved wrongly!
+2015-04-15 19:37:03 [WARNING] Pyro moved wrongly!
+2015-04-15 19:37:44 [WARNING] Pyro moved wrongly!
+2015-04-15 19:37:46 [WARNING] Pyro moved wrongly!
+2015-04-15 19:37:56 [WARNING] Pyro moved wrongly!
+2015-04-15 19:38:16 [WARNING] Pyro moved wrongly!
+2015-04-15 19:38:16 [WARNING] Pyro moved wrongly!
+2015-04-15 19:38:16 [WARNING] Pyro moved wrongly!
+2015-04-15 19:38:50 [WARNING] Pyro moved wrongly!
+2015-04-15 19:38:54 [WARNING] Pyro moved wrongly!
+2015-04-15 19:38:55 [WARNING] Pyro moved wrongly!
+2015-04-15 19:39:02 [INFO] [Pyro: Set the time to 0]
+2015-04-15 19:40:46 [WARNING] Pyro moved wrongly!
+2015-04-15 19:46:41 [INFO] [Pyro: Set the time to 0]
+2015-04-15 19:55:49 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 19:55:49 [INFO] Russ[/25.44.66.56:50562] logged in with entity id 1766312 at (-148.8428854060643, 74.0, 229.15893718808272)
+2015-04-15 19:56:33 [INFO] [Pyro: Set the time to 0]
+2015-04-15 20:07:29 [INFO] [Russ: Set the time to 24000]
+2015-04-15 20:18:09 [INFO] [Pyro: Set the time to 0]
+2015-04-15 20:28:59 [INFO] [Pyro: Set the time to 0]
+2015-04-15 20:34:35 [WARNING] Pyro moved wrongly!
+2015-04-15 20:39:51 [INFO] [Pyro: Set the time to 0]
+2015-04-15 20:50:15 [INFO] [Pyro: Set the time to 0]
+2015-04-15 21:00:36 [INFO] [Pyro: Set the time to 0]
+2015-04-15 21:04:13 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-15 21:11:13 [INFO] [Pyro: Set the time to 0]
+2015-04-15 21:13:22 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 21:13:22 [INFO] Russ[/25.44.66.56:50685] logged in with entity id 1951368 at (-151.1595622038313, 75.25, 230.65440300115986)
+2015-04-15 21:22:17 [INFO] [Pyro: Set the time to 0]
+2015-04-15 21:27:53 [INFO] [Pyro: Changing to clear weather]
+2015-04-15 21:29:05 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-15 21:29:32 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 21:29:32 [INFO] Pyro[/25.138.33.208:63366] logged in with entity id 1994789 at (-111.61450077857789, 64.0, 267.1293116912748)
+2015-04-15 21:30:30 [WARNING] Pyro moved wrongly!
+2015-04-15 21:30:32 [WARNING] Pyro moved wrongly!
+2015-04-15 21:30:33 [WARNING] Pyro moved wrongly!
+2015-04-15 21:32:20 [INFO] [Pyro: Set the time to 0]
+2015-04-15 21:34:21 [INFO] Russ lost connection: disconnect.quitting
+2015-04-15 21:34:24 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 21:34:24 [INFO] Russ[/25.44.66.56:50783] logged in with entity id 2012292 at (-153.93505893054345, 74.0, 230.36835114413924)
+2015-04-15 21:41:50 [WARNING] Pyro moved wrongly!
+2015-04-15 21:41:51 [WARNING] Pyro moved wrongly!
+2015-04-15 21:45:12 [INFO] [Pyro: Set the time to 0]
+2015-04-15 21:55:34 [INFO] [Pyro: Set the time to 0]
+2015-04-15 22:01:57 [INFO] Pyro lost connection: disconnect.genericReason
+2015-04-15 22:17:02 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-15 22:17:02 [INFO] Pyro[/25.138.33.208:63775] logged in with entity id 2090713 at (-153.68416001685745, 79.0, 232.84949038158055)
+2015-04-15 22:25:04 [INFO] [Pyro: Set the time to 0]
+2015-04-15 22:29:43 [INFO] [Pyro: Set the time to 0]
+2015-04-15 22:34:58 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-15 22:40:18 [INFO] [Pyro: Set the time to 0]
+2015-04-15 22:40:46 [WARNING] Can't keep up! Did the system time change, or is the server overloaded?
+2015-04-15 22:51:17 [INFO] Pyro was shot by entity.DivineRPG.wildfire.name
+2015-04-15 22:52:01 [INFO] Pyro was shot by entity.DivineRPG.wildfire.name
+2015-04-15 22:52:22 [INFO] [Pyro: Set the time to 0]
+2015-04-15 22:52:25 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 22:53:30 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:02:53 [INFO] [Pyro: Set the time to 0]
+2015-04-15 23:03:22 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:03:34 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 23:04:08 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:13:58 [INFO] [Pyro: Set the time to 0]
+2015-04-15 23:27:25 [INFO] [Pyro: Set the time to 0]
+2015-04-15 23:40:46 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:40:49 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 23:40:54 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:43:21 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 23:43:40 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:46:22 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 23:46:28 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:49:31 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:49:38 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 23:55:02 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-15 23:55:45 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-15 23:56:55 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 00:02:17 [INFO] [Pyro: Set the time to 0]
+2015-04-16 00:04:21 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 00:04:27 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 00:04:37 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 00:12:27 [INFO] [Pyro: Set the time to 0]
+2015-04-16 00:16:36 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-16 00:20:54 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 00:20:54 [INFO] Russ[/25.44.66.56:50980] logged in with entity id 2235265 at (-154.44021518850806, 74.0, 230.09202656536965)
+2015-04-16 00:23:35 [INFO] [Russ: Given Solar Panel (ID 250) * 60 to Russ]
+2015-04-16 00:23:35 [INFO] [Russ: Given Canvas Bag (ID 9268) * 1 to Russ]
+2015-04-16 00:25:00 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 00:25:00 [INFO] Pyro[/25.138.33.208:64322] logged in with entity id 2247186 at (-1044.9107926444094, 36.0, -349.06147541824834)
+2015-04-16 00:27:37 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-16 00:32:22 [INFO] Pyro was slain by entity.Ender Watcher.name
+2015-04-16 00:33:15 [INFO] Pyro hit the ground too hard
+2015-04-16 00:35:30 [INFO] Pyro was slain by entity.Ender Watcher.name
+2015-04-16 00:36:47 [INFO] Pyro was fireballed by entity.endertriplets.name
+2015-04-16 00:40:55 [INFO] Pyro was slain by entity.Ender Watcher.name
+2015-04-16 00:43:14 [INFO] Pyro was slain by entity.Ender Watcher.name
+2015-04-16 00:44:05 [INFO] Pyro was fireballed by entity.endertriplets.name
+2015-04-16 00:57:36 [INFO] Pyro hit the ground too hard
+2015-04-16 00:59:31 [WARNING] Pyro moved wrongly!
+2015-04-16 00:59:57 [INFO] Russ fell out of the world
+2015-04-16 00:59:57 [WARNING] Failed to handle packet for Russ/25.44.66.56: java.lang.NullPointerException
+java.lang.NullPointerException
+	at TombStone.DeathEventHook.onEntityDeath(DeathEventHook.java:60)
+	at net.minecraftforge.event.ASMEventHandler_19_DeathEventHook_onEntityDeath_PlayerDropsEvent.invoke(.dynamic)
+	at net.minecraftforge.event.ASMEventHandler.invoke(ASMEventHandler.java:35)
+	at net.minecraftforge.event.EventBus.post(EventBus.java:103)
+	at iq.a(EntityPlayerMP.java:339)
+	at md.a(EntityLiving.java:1111)
+	at qx.a(EntityPlayer.java:1020)
+	at iq.a(EntityPlayerMP.java:388)
+	at md.C(EntityLiving.java:2226)
+	at lq.y(Entity.java:555)
+	at md.y(EntityLiving.java:569)
+	at lq.j_(Entity.java:431)
+	at md.j_(EntityLiving.java:808)
+	at qx.j_(EntityPlayer.java:328)
+	at iq.g(EntityPlayerMP.java:286)
+	at iv.a(NetServerHandler.java:310)
+	at eb.a(SourceFile:136)
+	at cg.b(TcpConnection.java:458)
+	at iv.d(NetServerHandler.java:136)
+	at iw.b(NetworkListenThread.java:57)
+	at ht.b(SourceFile:30)
+	at net.minecraft.server.MinecraftServer.r(MinecraftServer.java:703)
+	at ho.r(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.q(MinecraftServer.java:599)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:497)
+	at fy.run(SourceFile:849)
+2015-04-16 01:00:04 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 01:00:04 [INFO] Russ[/25.44.66.56:51015] logged in with entity id 2289954 at (132.55394379624386, -714.3318463697404, -1.7107916333277717)
+2015-04-16 01:00:28 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-16 01:03:42 [INFO] [Russ: Enchanting succeeded]
+2015-04-16 01:04:28 [INFO] [Russ: Enchanting succeeded]
+2015-04-16 01:04:58 [INFO] [Russ: Enchanting succeeded]
+2015-04-16 01:05:20 [INFO] [Russ: Enchanting succeeded]
+2015-04-16 01:05:27 [INFO] [Russ: Enchanting succeeded]
+2015-04-16 01:05:30 [INFO] [Russ: Enchanting succeeded]
+2015-04-16 01:05:32 [INFO] [Russ: Enchanting succeeded]
+2015-04-16 01:05:56 [INFO] [Russ: Protection IV can't be combined with Blast Protection IV]
+2015-04-16 01:06:42 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-16 01:09:08 [WARNING] Pyro moved wrongly!
+2015-04-16 01:10:40 [WARNING] Pyro moved wrongly!
+2015-04-16 01:12:24 [WARNING] Pyro moved wrongly!
+2015-04-16 01:13:16 [INFO] [Russ: Given item.plasmashicaxe.name (ID 5366) * 1 to Russ]
+2015-04-16 01:26:00 [INFO] Pyro fell out of the world
+2015-04-16 01:26:00 [WARNING] Failed to handle packet for Pyro/25.138.33.208: java.lang.NullPointerException
+java.lang.NullPointerException
+	at TombStone.DeathEventHook.onEntityDeath(DeathEventHook.java:60)
+	at net.minecraftforge.event.ASMEventHandler_19_DeathEventHook_onEntityDeath_PlayerDropsEvent.invoke(.dynamic)
+	at net.minecraftforge.event.ASMEventHandler.invoke(ASMEventHandler.java:35)
+	at net.minecraftforge.event.EventBus.post(EventBus.java:103)
+	at iq.a(EntityPlayerMP.java:339)
+	at md.a(EntityLiving.java:1111)
+	at qx.a(EntityPlayer.java:1020)
+	at iq.a(EntityPlayerMP.java:388)
+	at md.C(EntityLiving.java:2226)
+	at lq.y(Entity.java:555)
+	at md.y(EntityLiving.java:569)
+	at lq.j_(Entity.java:431)
+	at md.j_(EntityLiving.java:808)
+	at qx.j_(EntityPlayer.java:328)
+	at iq.g(EntityPlayerMP.java:286)
+	at iv.a(NetServerHandler.java:310)
+	at eb.a(SourceFile:136)
+	at cg.b(TcpConnection.java:458)
+	at iv.d(NetServerHandler.java:136)
+	at iw.b(NetworkListenThread.java:57)
+	at ht.b(SourceFile:30)
+	at net.minecraft.server.MinecraftServer.r(MinecraftServer.java:703)
+	at ho.r(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.q(MinecraftServer.java:599)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:497)
+	at fy.run(SourceFile:849)
+2015-04-16 01:26:08 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 01:26:08 [INFO] Pyro[/25.138.33.208:64506] logged in with entity id 2307240 at (127.62815287949945, -94.31575115174145, -5.911469524257754)
+2015-04-16 01:26:24 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 01:26:54 [INFO] [Pyro: Set the time to 96000]
+2015-04-16 01:26:55 [INFO] [Pyro: Set the time to 120000]
+2015-04-16 01:28:24 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:28:33 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:29:17 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:29:50 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:29:58 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:32:21 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 01:34:17 [INFO] Russ was slain by entity.Ender Watcher.name
+2015-04-16 01:39:38 [INFO] Russ was slain by entity.Ender Watcher.name
+2015-04-16 01:40:45 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 01:41:41 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:42:07 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:42:35 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 01:42:49 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 01:43:07 [INFO] [Russ: Given item.bedrock.name (ID 5327) * 1 to Russ]
+2015-04-16 01:45:30 [INFO] [Pyro: Set the time to 0]
+2015-04-16 01:47:29 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-16 01:50:17 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 01:50:33 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 01:50:39 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 01:50:39 [INFO] Russ[/25.44.66.56:49238] logged in with entity id 2345275 at (-154.23927485152927, 74.0, 228.85335793974036)
+2015-04-16 01:50:55 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-16 01:50:59 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 01:51:10 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 01:55:59 [INFO] [Pyro: Set the time to 0]
+2015-04-16 02:02:25 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-16 02:02:52 [INFO] Russ was shot by entity.DivineRPG.wildfire.name
+2015-04-16 02:10:43 [WARNING] Pyro moved wrongly!
+2015-04-16 02:11:20 [INFO] Russ was shot by entity.DivineRPG.wildfire.name
+2015-04-16 02:20:13 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-16 02:30:34 [INFO] [Pyro: Set the time to 0]
+2015-04-16 02:41:21 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 02:41:24 [INFO] [Russ: Set the time to 24000]
+2015-04-16 02:41:42 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 02:42:07 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-16 02:42:08 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 02:45:59 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 02:45:59 [INFO] Russ[/25.44.66.56:49420] logged in with entity id 2532033 at (-130.46479827193366, 69.875, 243.63742167691575)
+2015-04-16 02:53:01 [INFO] [Pyro: Set the time to 0]
+2015-04-16 02:55:17 [INFO] Pyro lost connection: disconnect.genericReason
+2015-04-16 02:55:40 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 02:55:40 [INFO] Pyro[/25.138.33.208:49698] logged in with entity id 2560602 at (-141.31097807609308, 84.0, 213.19401337826952)
+2015-04-16 03:03:52 [INFO] [Pyro: Set the time to 0]
+2015-04-16 03:14:52 [INFO] [Pyro: Set the time to 0]
+2015-04-16 03:25:27 [INFO] [Pyro: Set the time to 0]
+2015-04-16 03:28:46 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:47 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:47 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:47 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:48 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:48 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:48 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:48 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:48 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:49 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:49 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:49 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:49 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:49 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:49 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:50 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:28:50 [INFO] [Russ: Given Cobblestone (ID 4) * 64 to Russ]
+2015-04-16 03:33:06 [INFO] Pyro blew up
+2015-04-16 03:33:06 [SEVERE] Encountered an unexpected exception t
+t: Ticking entity
+	at net.minecraft.server.MinecraftServer.r(MinecraftServer.java:686)
+	at ho.r(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.q(MinecraftServer.java:599)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:497)
+	at fy.run(SourceFile:849)
+Caused by: java.lang.NullPointerException
+	at TombStone.TombStoneBlock.a(TombStoneBlock.java:178)
+	at xx.a(Explosion.java:218)
+	at in.a(WorldServer.java:938)
+	at yc.a(World.java:2657)
+	at pz.c(SourceFile:82)
+	at pz.j_(SourceFile:72)
+	at yc.a(World.java:2291)
+	at in.a(WorldServer.java:647)
+	at yc.g(World.java:2253)
+	at yc.h(World.java:2107)
+	at in.h(WorldServer.java:516)
+	at net.minecraft.server.MinecraftServer.r(MinecraftServer.java:680)
+	... 4 more
+2015-04-16 03:33:06 [SEVERE] This crash report has been saved to: C:\Users\Russell\Desktop\BYUServer\.\crash-reports\crash-2015-04-16_03.33.06-server.txt
+2015-04-16 03:37:13 [INFO] Unknown command. Try /help for a list of commands.
+2015-04-16 03:37:17 [INFO] Unknown command. Try /help for a list of commands.
+2015-04-16 03:37:20 [INFO] Stopping server
+2015-04-16 03:37:20 [INFO] Saving players
+2015-04-16 03:37:20 [INFO] Saving worlds
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Overworld
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Nether
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/The End
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Iceika
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Arcana
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Augite
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Mythril
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Uvite
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Azurite
+2015-04-16 03:37:20 [INFO] Saving chunks for level 'BYU'/Dravite
+2015-04-16 03:37:21 [INFO] Stopping server
+2015-04-16 03:37:44 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 03:37:46 [INFO] Loading properties
+2015-04-16 03:37:46 [INFO] Default game type: SURVIVAL
+2015-04-16 03:37:46 [INFO] Generating keypair
+2015-04-16 03:37:46 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-16 03:37:46 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-16 03:37:46 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-16 03:37:46 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-16 03:37:46 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-16 03:37:48 [INFO] Preparing level "BYU"
+2015-04-16 03:37:48 [INFO] Preparing start region for level 0
+2015-04-16 03:37:49 [INFO] Done (1.124s)! For help, type "help" or "?"
+2015-04-16 03:37:49 [INFO] Damage Indicators Mod Mod v.1.0.0.0 is up to date.
+2015-04-16 03:38:13 [INFO] User Pyro connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerControl, RedPowerCompat, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 03:38:13 [INFO] Pyro[/25.138.33.208:50177] logged in with entity id 487 at (1706.300000011921, 50.0, -964.2375000119209)
+2015-04-16 03:38:32 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 03:38:32 [INFO] Russ[/25.44.66.56:49816] logged in with entity id 2994 at (-161.82937787070296, 80.0, 232.14483078035613)
+2015-04-16 03:39:41 [INFO] Pyro fell out of the world
+2015-04-16 03:40:14 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 03:40:49 [INFO] [Pyro: Set the time to 0]
+2015-04-16 03:41:00 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-16 03:41:01 [INFO] [Russ: Set own game mode to Creative Mode]
+2015-04-16 03:41:19 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 03:42:45 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 03:43:36 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-16 03:44:06 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 03:44:53 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 03:44:53 [INFO] Russ[/25.44.66.56:49829] logged in with entity id 24144 at (-175.89895740895076, 76.0, 230.53163031631442)
+2015-04-16 03:51:03 [INFO] [Pyro: Set the time to 0]
+2015-04-16 03:55:54 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 03:57:40 [INFO] [Pyro: Enchanting succeeded]
+2015-04-16 03:57:52 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 04:01:03 [INFO] [Russ: Set own game mode to Survival Mode]
+2015-04-16 04:01:06 [WARNING] Russ moved wrongly!
+2015-04-16 04:01:06 [WARNING] Russ moved wrongly!
+2015-04-16 04:01:26 [INFO] [Pyro: Set the time to 0]
+2015-04-16 04:04:25 [WARNING] Russ moved wrongly!
+2015-04-16 04:06:22 [WARNING] Russ moved wrongly!
+2015-04-16 04:09:21 [WARNING] Russ moved wrongly!
+2015-04-16 04:09:26 [WARNING] Russ moved wrongly!
+2015-04-16 04:09:26 [WARNING] Russ moved wrongly!
+2015-04-16 04:11:44 [INFO] Pyro was slain by Zombie Pigman
+2015-04-16 04:12:06 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 04:12:35 [INFO] [Russ: Set the time to 24000]
+2015-04-16 04:13:28 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 04:20:39 [WARNING] Russ moved wrongly!
+2015-04-16 04:21:28 [WARNING] Russ moved wrongly!
+2015-04-16 04:24:05 [INFO] Russ lost connection: disconnect.genericReason
+2015-04-16 04:28:06 [INFO] User Russ connecting with mods [TombStone, RedPowerMachine, DivineRPG, RedPowerWiring, RedPowerCore, PortalGun, RedPowerCompat, RedPowerControl, RedPowerLighting, RedPowerLogic, RedPowerBase, DamageIndicatorsMod, RedPowerWorld]
+2015-04-16 04:28:06 [INFO] Russ[/25.44.66.56:50066] logged in with entity id 204784 at (-269.32975046249044, 76.0, 308.7399472708451)
+2015-04-16 04:28:22 [INFO] [Russ: Set the time to 48000]
+2015-04-16 04:38:35 [INFO] [Russ: Set the time to 72000]
+2015-04-16 04:39:00 [INFO] Russ lost connection: disconnect.quitting
+2015-04-16 04:48:54 [INFO] [Pyro: Set own game mode to Creative Mode]
+2015-04-16 04:49:18 [INFO] [Pyro: Set the time to 0]
+2015-04-16 04:49:23 [INFO] [Pyro: Set own game mode to Survival Mode]
+2015-04-16 04:59:36 [INFO] [Pyro: Set the time to 0]
+2015-04-16 05:02:04 [INFO] Pyro lost connection: disconnect.quitting
+2015-04-16 13:27:18 [INFO] Stopping server
+2015-04-16 13:27:18 [INFO] Saving players
+2015-04-16 13:27:18 [INFO] Saving worlds
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Overworld
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Nether
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/The End
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Iceika
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Arcana
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Augite
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Mythril
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Uvite
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Azurite
+2015-04-16 13:27:18 [INFO] Saving chunks for level 'BYU'/Dravite
+2015-04-16 13:28:36 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 13:28:37 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: Lcodechicken/core/ConfigFile;
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Unknown Source)
+	at java.lang.Class.getDeclaredField(Unknown Source)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:43)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:462)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:479)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:345)
+	at ho.c(DedicatedServer.java:64)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:458)
+	at fy.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: codechicken.core.ConfigFile
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:185)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 31 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at net.minecraftforge.transformers.EventTransformer.transform(EventTransformer.java:29)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:228)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:173)
+	... 33 more
+2015-04-16 13:28:37 [SEVERE] This crash report has been saved to: C:\Users\Russell\Desktop\BYUServer\.\crash-reports\crash-2015-04-16_13.28.37-server.txt
+2015-04-16 13:28:42 [INFO] Stopping server
+2015-04-16 13:28:42 [INFO] Saving worlds
+2015-04-16 13:29:47 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 13:29:48 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: Lcodechicken/core/ConfigFile;
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Unknown Source)
+	at java.lang.Class.getDeclaredField(Unknown Source)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:43)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:462)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:479)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:345)
+	at ho.c(DedicatedServer.java:64)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:458)
+	at fy.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: codechicken.core.ConfigFile
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:185)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 31 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at net.minecraftforge.transformers.EventTransformer.transform(EventTransformer.java:29)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:228)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:173)
+	... 33 more
+2015-04-16 13:29:48 [SEVERE] This crash report has been saved to: C:\Users\Russell\Desktop\BYUServer\.\crash-reports\crash-2015-04-16_13.29.48-server.txt
+2015-04-16 13:30:05 [INFO] Stopping server
+2015-04-16 13:30:05 [INFO] Saving worlds
+2015-04-16 13:32:21 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 13:32:22 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: Lcodechicken/core/ConfigFile;
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Unknown Source)
+	at java.lang.Class.getDeclaredField(Unknown Source)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:43)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:462)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:479)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:345)
+	at ho.c(DedicatedServer.java:64)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:458)
+	at fy.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: codechicken.core.ConfigFile
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:185)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 31 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at net.minecraftforge.transformers.EventTransformer.transform(EventTransformer.java:29)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:228)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:173)
+	... 33 more
+2015-04-16 13:32:22 [SEVERE] This crash report has been saved to: C:\Users\Russell\Desktop\BYUServer\.\crash-reports\crash-2015-04-16_13.32.22-server.txt
+2015-04-16 13:32:47 [INFO] Stopping server
+2015-04-16 13:32:47 [INFO] Saving worlds
+2015-04-16 15:48:00 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 15:48:00 [SEVERE] Encountered an unexpected exception NoClassDefFoundError
+java.lang.NoClassDefFoundError: Lcodechicken/core/ConfigFile;
+	at java.lang.Class.getDeclaredFields0(Native Method)
+	at java.lang.Class.privateGetDeclaredFields(Unknown Source)
+	at java.lang.Class.getDeclaredField(Unknown Source)
+	at cpw.mods.fml.common.ProxyInjector.inject(ProxyInjector.java:43)
+	at cpw.mods.fml.common.FMLModContainer.constructMod(FMLModContainer.java:462)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:479)
+	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:345)
+	at ho.c(DedicatedServer.java:64)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:458)
+	at fy.run(SourceFile:849)
+Caused by: java.lang.ClassNotFoundException: codechicken.core.ConfigFile
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:185)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 31 more
+Caused by: java.lang.NullPointerException
+	at org.objectweb.asm.ClassReader.<init>(Unknown Source)
+	at net.minecraftforge.transformers.EventTransformer.transform(EventTransformer.java:29)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.runTransformers(RelaunchClassLoader.java:228)
+	at cpw.mods.fml.relauncher.RelaunchClassLoader.findClass(RelaunchClassLoader.java:173)
+	... 33 more
+2015-04-16 15:48:00 [SEVERE] This crash report has been saved to: C:\Users\Russell\Desktop\BYUServer\.\crash-reports\crash-2015-04-16_15.48.00-server.txt
+2015-04-16 17:00:05 [INFO] Stopping server
+2015-04-16 17:00:05 [INFO] Saving worlds
+2015-04-16 17:00:18 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 17:00:20 [INFO] Loading properties
+2015-04-16 17:00:20 [INFO] Default game type: SURVIVAL
+2015-04-16 17:00:20 [INFO] Generating keypair
+2015-04-16 17:00:20 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-16 17:00:20 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-16 17:00:20 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-16 17:00:20 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-16 17:00:20 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-16 17:00:22 [INFO] Preparing level "BYU"
+2015-04-16 17:00:23 [INFO] Preparing start region for level 0
+2015-04-16 17:00:23 [INFO] Done (1.191s)! For help, type "help" or "?"
+2015-04-16 17:00:23 [INFO] Damage Indicators Mod Mod v.1.0.0.0 is up to date.
+2015-04-16 17:07:52 [INFO] Stopping server
+2015-04-16 17:07:52 [INFO] Saving players
+2015-04-16 17:07:52 [INFO] Saving worlds
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Overworld
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Nether
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Iceika
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Arcana
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Augite
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Mythril
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Uvite
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Azurite
+2015-04-16 17:07:52 [INFO] Saving chunks for level 'BYU'/Dravite
+2015-04-16 17:08:03 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 17:08:05 [INFO] Loading properties
+2015-04-16 17:08:05 [INFO] Default game type: SURVIVAL
+2015-04-16 17:08:05 [INFO] Generating keypair
+2015-04-16 17:08:05 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-16 17:08:05 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-16 17:08:05 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-16 17:08:05 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-16 17:08:05 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-16 17:08:07 [INFO] Preparing level "BYU"
+2015-04-16 17:08:08 [INFO] Preparing start region for level 0
+2015-04-16 17:08:08 [INFO] Done (1.089s)! For help, type "help" or "?"
+2015-04-16 17:08:08 [INFO] Damage Indicators Mod Mod v.1.0.0.0 is up to date.
+2015-04-16 17:13:52 [INFO] Stopping the server
+2015-04-16 17:13:52 [INFO] Stopping server
+2015-04-16 17:13:52 [INFO] Saving players
+2015-04-16 17:13:52 [INFO] Saving worlds
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Overworld
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Nether
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/The End
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Iceika
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Arcana
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Augite
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Mythril
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Uvite
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Azurite
+2015-04-16 17:13:52 [INFO] Saving chunks for level 'BYU'/Dravite
+2015-04-16 17:13:53 [INFO] Stopping server
+2015-04-16 17:13:58 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 17:14:00 [INFO] Loading properties
+2015-04-16 17:14:00 [INFO] Default game type: SURVIVAL
+2015-04-16 17:14:00 [INFO] Generating keypair
+2015-04-16 17:14:00 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-16 17:14:00 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-16 17:14:00 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-16 17:14:00 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-16 17:14:00 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-16 17:14:02 [INFO] Preparing level "BYU"
+2015-04-16 17:14:03 [INFO] Preparing start region for level 0
+2015-04-16 17:14:03 [INFO] Done (1.119s)! For help, type "help" or "?"
+2015-04-16 17:14:03 [INFO] Damage Indicators Mod Mod v.1.0.0.0 is up to date.
+2015-04-16 17:46:26 [INFO] Stopping server
+2015-04-16 17:46:26 [INFO] Saving players
+2015-04-16 17:46:26 [INFO] Saving worlds
+2015-04-16 17:48:19 [INFO] Starting minecraft server version 1.4.7
+2015-04-16 17:48:21 [INFO] Loading properties
+2015-04-16 17:48:21 [INFO] Default game type: SURVIVAL
+2015-04-16 17:48:21 [INFO] Generating keypair
+2015-04-16 17:48:22 [INFO] Starting Minecraft server on 25.138.4.41:25565
+2015-04-16 17:48:22 [WARNING] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-16 17:48:22 [WARNING] The server will make no attempt to authenticate usernames. Beware.
+2015-04-16 17:48:22 [WARNING] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-16 17:48:22 [WARNING] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-16 17:48:23 [INFO] Preparing level "BYU"
+2015-04-16 17:48:24 [INFO] Preparing start region for level 0
+2015-04-16 17:48:25 [INFO] Done (1.424s)! For help, type "help" or "?"
+2015-04-16 17:48:25 [INFO] Damage Indicators Mod Mod v.1.0.0.0 is up to date.

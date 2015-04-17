@@ -1,0 +1,82 @@
+---- Minecraft Crash Report ----
+// Why is it breaking :(
+
+Time: 4/14/15 10:29 PM
+Description: Exception ticking world
+
+java.util.ConcurrentModificationException
+	at java.util.HashMap$HashIterator.nextEntry(Unknown Source)
+	at java.util.HashMap$KeyIterator.next(Unknown Source)
+	at im.b(ChunkProviderServer.java:325)
+	at in.b(WorldServer.java:166)
+	at net.minecraft.server.MinecraftServer.r(MinecraftServer.java:669)
+	at ho.r(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.q(MinecraftServer.java:599)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:497)
+	at fy.run(SourceFile:849)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at java.util.HashMap$HashIterator.nextEntry(Unknown Source)
+	at java.util.HashMap$KeyIterator.next(Unknown Source)
+	at im.b(ChunkProviderServer.java:325)
+	at in.b(WorldServer.java:166)
+
+-- Affected level --
+Details:
+	Level name: Slayer
+	All players: 0 total; []
+	Chunk stats: ServerChunkCache: 1052 Drop: 424
+	Level seed: -8269148199141507704
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-120,64,252), Chunk: (at 8,4,12 in -8,15; contains blocks -128,0,240 to -113,255,255), Region: (-1,0; contains chunks -32,0 to -1,31, blocks -512,0,0 to -1,255,511)
+	Level time: 44503327 game time, 42702 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 19765 (now: false), thunder time: 67903 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.r(MinecraftServer.java:669)
+	at ho.r(DedicatedServer.java:270)
+	at net.minecraft.server.MinecraftServer.q(MinecraftServer.java:599)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:497)
+	at fy.run(SourceFile:849)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.4.7
+	Operating System: Windows 8.1 (amd64) version 6.3
+	Java Version: 1.7.0_71, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 186437272 bytes (177 MB) / 290979840 bytes (277 MB) up to 3791650816 bytes (3616 MB)
+	JVM Flags: 0 total; 
+	AABB Pool Size: 4524 (253344 bytes; 0 MB) allocated, 140 (7840 bytes; 0 MB) used
+	Suspicious classes: FML and Forge are installed
+	IntCache: cache: 0, tcache: 0, allocated: 1, tallocated: 63
+	FML: MCP v7.26 FML v4.7.4.520 Minecraft Forge 6.6.0.497 16 mods loaded, 16 mods active
+	mcp [Minecraft Coder Pack] (minecraft.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	FML [Forge Mod Loader] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	Forge [Minecraft Forge] (coremods) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	DamageIndicatorsMod [Damage Indicators] (DamageIndicators[1.4.6]2.2.6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	DivineRPG [DivineRPG] (DivineRPG1.2.8.jar) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	PortalGun [Portal Gun] (PortalGun1.4.7v2.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerCore [RedPower] (RedPowerCore-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerBase [RP Base] (RedPowerCore-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerMachine [RP Machine] (RedPowerMechanical-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerCompat [RP Compat] (RedPowerCompat-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerWiring [RP Wiring] (RedPowerDigital-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerLogic [RP Logic] (RedPowerDigital-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerLighting [RP Lighting] (RedPowerDigital-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerWorld [RP World] (RedPowerMechanical-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	RedPowerControl [RP Control] (RedPowerMechanical-2.0pr6.zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	TombStone [TombStone] (TombStone(0.3.0).zip) Unloaded->Constructed->Pre-initialized->Initialized->Post-initialized->Available->Available->Available
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 5367 (300552 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 0 / 20; []
+	Is Modded: Definitely; Server brand changed to 'fml'
+	Type: Dedicated Server (map_server.txt)

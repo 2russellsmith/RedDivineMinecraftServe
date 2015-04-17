@@ -1,0 +1,1531 @@
+2015-04-16 17:13:57 [INFO] [ForgeModLoader] Forge Mod Loader version 4.7.4.520 for Minecraft 1.4.7 loading
+2015-04-16 17:13:57 [INFO] [ForgeModLoader] Found valid fingerprint for Minecraft Forge. Certificate fingerprint de4cf8a3f3bc15635810044c39240bf96804ea7d
+2015-04-16 17:13:58 [INFO] [STDOUT] 210 recipes
+2015-04-16 17:13:58 [INFO] [STDOUT] 27 achievements
+2015-04-16 17:13:58 [INFO] [Minecraft] Starting minecraft server version 1.4.7
+2015-04-16 17:13:58 [INFO] [ForgeModLoader] Attempting early MinecraftForge initialization
+2015-04-16 17:13:58 [INFO] [STDOUT] MinecraftForge v6.6.0.497 Initialized
+2015-04-16 17:13:58 [INFO] [ForgeModLoader] MinecraftForge v6.6.0.497 Initialized
+2015-04-16 17:13:58 [INFO] [STDOUT] Replaced 84 ore recipies
+2015-04-16 17:13:58 [INFO] [ForgeModLoader] Completed early MinecraftForge initialization
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Building injected Mod Containers [cpw.mods.fml.common.FMLDummyContainer, net.minecraftforge.common.ForgeDummyContainer]
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Attempting to load mods contained in the minecraft jar file and associated classes
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a minecraft related file at C:\Users\Russell\Desktop\BYUServer\minecraft_server.jar, examining for mod candidates
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Russell\Desktop\BYUServer\lib\argo-2.25.jar
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Russell\Desktop\BYUServer\lib\guava-12.0.1.jar
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Russell\Desktop\BYUServer\lib\asm-all-4.0.jar
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Skipping known library file C:\Users\Russell\Desktop\BYUServer\lib\bcprov-jdk15on-147.jar
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Minecraft jar mods loaded successfully
+2015-04-16 17:13:58 [INFO] [ForgeModLoader] Searching C:\Users\Russell\Desktop\BYUServer\mods for mods
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file DamageIndicators[1.4.6]2.2.6.zip
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file DivineRPG1.2.8.jar
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file PortalGun1.4.7v2.zip
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file RedPowerCompat-2.0pr6.zip
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file RedPowerCore-2.0pr6.zip
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file RedPowerDigital-2.0pr6.zip
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file RedPowerMechanical-2.0pr6.zip
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Found a candidate zip or jar file TombStone(0.3.0).zip
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Examining file minecraft_server.jar for potential mods
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] The mod container minecraft_server.jar appears to be missing an mcmod.info file
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Examining file DamageIndicators[1.4.6]2.2.6.zip for potential mods
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] The mod container DamageIndicators[1.4.6]2.2.6.zip appears to be missing an mcmod.info file
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Identified an FMLMod type mod DamageIndicators.DamageIndicatorsMod
+2015-04-16 17:13:58 [FINEST] [ForgeModLoader] Parsed dependency info : [] [] []
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] Examining file DivineRPG1.2.8.jar for potential mods
+2015-04-16 17:13:58 [FINE] [ForgeModLoader] The mod container DivineRPG1.2.8.jar appears to be missing an mcmod.info file
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod xolova.blued00r.divinerpg.DivineRPG
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [] [] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Examining file PortalGun1.4.7v2.zip for potential mods
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Located mcmod.info file in file PortalGun1.4.7v2.zip
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod portalgun.common.PortalGun
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [Forge@[6.5.0.483,)] [Forge@[6.5.0.483,)] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Examining file RedPowerCompat-2.0pr6.zip for potential mods
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Located mcmod.info file in file RedPowerCompat-2.0pr6.zip
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerCompat
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerBase, RedPowerMachine] [RedPowerBase, RedPowerMachine, BuildCraftBase] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Examining file RedPowerCore-2.0pr6.zip for potential mods
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Located mcmod.info file in file RedPowerCore-2.0pr6.zip
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerCore
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [] [] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerBase
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerCore] [RedPowerCore] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Examining file RedPowerDigital-2.0pr6.zip for potential mods
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Located mcmod.info file in file RedPowerDigital-2.0pr6.zip
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerWiring
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerBase] [RedPowerBase] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerLogic
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerBase] [RedPowerBase] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerLighting
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerBase] [RedPowerBase] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Examining file RedPowerMechanical-2.0pr6.zip for potential mods
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Located mcmod.info file in file RedPowerMechanical-2.0pr6.zip
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerWorld
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerBase] [RedPowerBase] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerMachine
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerBase] [RedPowerBase] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod com.eloraam.redpower.RedPowerControl
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [RedPowerBase] [RedPowerBase] []
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Examining file TombStone(0.3.0).zip for potential mods
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] The mod container TombStone(0.3.0).zip appears to be missing an mcmod.info file
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Identified an FMLMod type mod TombStone.TombStone
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Parsed dependency info : [] [] []
+2015-04-16 17:13:59 [INFO] [ForgeModLoader] Forge Mod Loader has identified 16 mods to load
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Received a system property request ''
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] System property request managing the state of 0 mods
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] After merging, found state information for 0 mods
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod mcp
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod FML
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod Forge
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod DamageIndicatorsMod
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod DamageIndicatorsMod
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod DivineRPG
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod DivineRPG
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod PortalGun
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod PortalGun
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerCompat
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerCompat
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerCore
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerCore
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerBase
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerBase
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerWiring
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerWiring
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerLogic
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerLogic
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerLighting
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerLighting
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerWorld
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerWorld
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerMachine
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerMachine
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod RedPowerControl
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod RedPowerControl
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Enabling mod TombStone
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Activating mod TombStone
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Verifying mod requirements are satisfied
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] All mod requirements are satisfied
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Sorting mods into an ordered list
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Mod sorting completed successfully
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Mod sorting data:
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	DamageIndicatorsMod(Damage Indicators:2.2.6): DamageIndicators[1.4.6]2.2.6.zip ()
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	DivineRPG(DivineRPG:1.2.8): DivineRPG1.2.8.jar ()
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	PortalGun(Portal Gun:1.4.7.2): PortalGun1.4.7v2.zip (required-after:Forge@[6.5.0.483,))
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerCore(RedPower:2.0pr6): RedPowerCore-2.0pr6.zip ()
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerBase(RP Base:2.0pr6): RedPowerCore-2.0pr6.zip (required-after:RedPowerCore)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerMachine(RP Machine:2.0pr6): RedPowerMechanical-2.0pr6.zip (required-after:RedPowerBase)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerCompat(RP Compat:2.0pr6): RedPowerCompat-2.0pr6.zip (required-after:RedPowerBase;required-after:RedPowerMachine;after:BuildCraftBase)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerWiring(RP Wiring:2.0pr6): RedPowerDigital-2.0pr6.zip (required-after:RedPowerBase)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerLogic(RP Logic:2.0pr6): RedPowerDigital-2.0pr6.zip (required-after:RedPowerBase)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerLighting(RP Lighting:2.0pr6): RedPowerDigital-2.0pr6.zip (required-after:RedPowerBase)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerWorld(RP World:2.0pr6): RedPowerMechanical-2.0pr6.zip (required-after:RedPowerBase)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerControl(RP Control:2.0pr6): RedPowerMechanical-2.0pr6.zip (required-after:RedPowerBase)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	TombStone(TombStone:0.3.0): TombStone(0.3.0).zip ()
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod mcp
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod mcp
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod FML
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod FML
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod Forge
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod Forge
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod DamageIndicatorsMod
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod DamageIndicatorsMod to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod DamageIndicatorsMod accepts its own version (2.2.6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into DamageIndicatorsMod
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod DamageIndicatorsMod
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod DivineRPG
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod DivineRPG to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod DivineRPG accepts its own version (1.2.8)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into DivineRPG
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod DivineRPG
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod PortalGun
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod PortalGun to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod PortalGun accepts its own version (1.4.7.2)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into PortalGun
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod PortalGun
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerCore
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerCore to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerCore accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerCore
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerCore
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerBase
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerBase to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerBase accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerBase
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerBase
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerMachine
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerMachine to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerMachine accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerMachine
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerMachine
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerCompat
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerCompat to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerCompat accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerCompat
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerCompat
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerWiring
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerWiring to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerWiring accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerWiring
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerWiring
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerLogic
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerLogic to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerLogic accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerLogic
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerLogic
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerLighting
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerLighting to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerLighting accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerLighting
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerLighting
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerWorld
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerWorld to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerWorld accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerWorld
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerWorld
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod RedPowerControl
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod RedPowerControl to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod RedPowerControl accepts its own version (2.0pr6)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into RedPowerControl
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod RedPowerControl
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLConstructionEvent to mod TombStone
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] Testing mod TombStone to verify it accepts its own version in a remote connection
+2015-04-16 17:13:59 [FINEST] [ForgeModLoader] The mod TombStone accepts its own version (0.3.0)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Attempting to inject @SidedProxy classes into TombStone
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLConstructionEvent to mod TombStone
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] Mod signature data:
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	mcp(Minecraft Coder Pack:7.26): minecraft.jar (NO VALID CERTIFICATE FOUND)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	FML(Forge Mod Loader:4.7.4.520): coremods (de4cf8a3f3bc15635810044c39240bf96804ea7d)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	Forge(Minecraft Forge:6.6.0.497): coremods (NO VALID CERTIFICATE FOUND)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	DamageIndicatorsMod(Damage Indicators:2.2.6): DamageIndicators[1.4.6]2.2.6.zip (NO VALID CERTIFICATE FOUND)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	DivineRPG(DivineRPG:1.2.8): DivineRPG1.2.8.jar (NO VALID CERTIFICATE FOUND)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	PortalGun(Portal Gun:1.4.7.2): PortalGun1.4.7v2.zip (NO VALID CERTIFICATE FOUND)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerCore(RedPower:2.0pr6): RedPowerCore-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerBase(RP Base:2.0pr6): RedPowerCore-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerMachine(RP Machine:2.0pr6): RedPowerMechanical-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerCompat(RP Compat:2.0pr6): RedPowerCompat-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerWiring(RP Wiring:2.0pr6): RedPowerDigital-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerLogic(RP Logic:2.0pr6): RedPowerDigital-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerLighting(RP Lighting:2.0pr6): RedPowerDigital-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerWorld(RP World:2.0pr6): RedPowerMechanical-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	RedPowerControl(RP Control:2.0pr6): RedPowerMechanical-2.0pr6.zip (28f7f8a775e597088f3a418ea29290b6a1d23c7b)
+2015-04-16 17:13:59 [FINE] [ForgeModLoader] 	TombStone(TombStone:0.3.0): TombStone(0.3.0).zip (NO VALID CERTIFICATE FOUND)
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod mcp
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod mcp
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod FML
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod FML
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod Forge
+2015-04-16 17:13:59 [INFO] [ForgeModLoader] Configured a dormant chunk cache size of 0
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod Forge
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod DamageIndicatorsMod
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod DamageIndicatorsMod
+2015-04-16 17:13:59 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod DivineRPG
+2015-04-16 17:14:00 [INFO] [STDERR] java.io.FileNotFoundException: http://tempestgamers.com/divine/version.txt
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at java.net.URL.openStream(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at xolova.blued00r.divinerpg.client.misc.VersionHelper.checkVersion(VersionHelper.java:30)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at xolova.blued00r.divinerpg.DivineRPG.preload(DivineRPG.java:2006)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at cpw.mods.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:485)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.GeneratedMethodAccessor2.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at cpw.mods.fml.common.LoadController.propogateStateMessage(LoadController.java:140)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at java.lang.reflect.Method.invoke(Unknown Source)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventHandler.handleEvent(EventHandler.java:69)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.SynchronizedEventHandler.handleEvent(SynchronizedEventHandler.java:45)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatch(EventBus.java:317)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.dispatchQueuedEvents(EventBus.java:300)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at com.google.common.eventbus.EventBus.post(EventBus.java:268)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at cpw.mods.fml.common.LoadController.distributeStateMessage(LoadController.java:83)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at cpw.mods.fml.common.Loader.loadMods(Loader.java:486)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at cpw.mods.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:86)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at cpw.mods.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:345)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at ho.c(DedicatedServer.java:64)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:458)
+2015-04-16 17:14:00 [INFO] [STDERR] 	at fy.run(SourceFile:849)
+2015-04-16 17:14:00 [INFO] [DivineRPG]  http://tempestgamers.com/divine/version.txt
+2015-04-16 17:14:00 [WARNING] [DivineRPG] 
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod DivineRPG
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod PortalGun
+2015-04-16 17:14:00 [INFO] [PortalGun] [1.4.7v2] Loading properties.
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod PortalGun
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerCore
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerCore
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerBase
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerBase
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerMachine
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerMachine
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerCompat
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerCompat
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerWiring
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerWiring
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerLogic
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerLogic
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerLighting
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerLighting
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerWorld
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerWorld
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod RedPowerControl
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod RedPowerControl
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLPreInitializationEvent to mod TombStone
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLPreInitializationEvent to mod TombStone
+2015-04-16 17:14:00 [INFO] [Minecraft] Loading properties
+2015-04-16 17:14:00 [INFO] [Minecraft] Default game type: SURVIVAL
+2015-04-16 17:14:00 [INFO] [Minecraft] Generating keypair
+2015-04-16 17:14:00 [INFO] [Minecraft] Starting Minecraft server on 25.138.4.41:25565
+2015-04-16 17:14:00 [WARNING] [Minecraft] **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+2015-04-16 17:14:00 [WARNING] [Minecraft] The server will make no attempt to authenticate usernames. Beware.
+2015-04-16 17:14:00 [WARNING] [Minecraft] While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+2015-04-16 17:14:00 [WARNING] [Minecraft] To change this, set "online-mode" to "true" in the server.properties file.
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod mcp
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod mcp
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod FML
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod FML
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod Forge
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod Forge
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:00 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemIceikaDoor(7256) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5738) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemIceicleBane(5739) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemSoundOfCarols(5740) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemIceineSword(5741) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemNamkormira(5742) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemEnderice(5743) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemSnowSlash(5744) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemSerenadeOfIce(5745) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemGlacierSword(5746) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemSwordIceika(5747) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemFrozenMaul(5748) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemFrostClawCannon(5749) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemFractiteCannon(5750) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemSnowFlakeShuriken(5751) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemIcicleBow(5752) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.iceika.ItemSnowStormBow(5753) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemOrbOfLight(5754) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item uk(5755) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item uu(5756) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item uk(5757) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item uk(5758) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item uk(5759) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArcanaPotion(5760) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArcanaPotion(5761) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArcanaMusicBox(5762) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemOreDoor(5659) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemOreDoor2(5660) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemOreDoor3(5661) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemOreDoor4(5662) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKey(5663) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKey(5664) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKey(5665) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKey(5666) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKey(5667) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMusicBox(31999) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCorruptedPickaxe(5673) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCorruptedAxe(5672) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCorruptedShovel(5674) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKey(5675) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCorruptedMaul(5676) owned by DivineRPG
+2015-04-16 17:14:00 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDeathBringer(5677) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMusicBox2(5678) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMusicBox3(5679) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMusicBox4(5680) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMusicBox5(5681) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5683) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5696) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemPinFly(5684) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5695) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item uk(5682) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5689) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5690) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5685) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5691) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemLamona(5686) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5692) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemAquaMarine(5687) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5693) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5688) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vh(5694) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5697) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemFyracryxSpawner(5698) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemParatikuSpawner(5717) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSeimerSpawner(5718) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemGolemOfRejuvSpawner(5719) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemFirefly(5699) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemStarfall(5700) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMoltenSword(5701) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemFrostSword(5702) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderBow(5703) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCorruptCannon(5704) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5705) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemReflector(5706) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemStormSword(5707) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemStaffOfStarlight(5708) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemWraithbane(5709) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCaptiansSparkeler(5710) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShadowSword(5711) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderScepter(5712) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemGrenadeLauncher(5713) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemGrenade(5714) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMeriksMissile(5715) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArcaniumSaber(5716) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemLiviciaSword(5721) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemFlamingFury(5769) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAyeracoSpawner(5770) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5771) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5720) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCollector(5736) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5737) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTarBucket(5589) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTarBucket(5735) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemStaffOfEnrichment(5763) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorKorma(5730) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorKorma(5731) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorKorma(5732) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorKorma(5733) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorVemos(5726) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorVemos(5727) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorVemos(5728) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemArmorVemos(5729) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.arcana.ItemWizardBook(5734) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item up(5768) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemInfernoSword(5322) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordXolovon(5323) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemRupeeSword(5324) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSlimeSword(5325) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemFuryMaul(5326) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordXolovon(5327) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSeranadeHealth(5328) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSerande(5329) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon1(5330) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon1(5331) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon1(5332) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemRealmiteSword(5333) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon1(5334) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon1(5335) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon1(5336) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordXolovon(5337) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon(5338) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon(5339) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon(5340) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemHoeXolovon(5341) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCrystalSword(5342) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCrystalShicaxe(5343) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordXolovon(5344) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordXolovon(5345) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordXolovon(5346) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBloodDagger(5347) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemGemRack(5348) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderSword(5349) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderSword(5350) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderSword(5351) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderSword(5352) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderSword(5353) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderSword(5354) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDalmorSaber(5355) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemGognisahr(5356) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemNamkormira(5357) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemHaimreicher(5358) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon1(5359) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon1(5360) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon1(5361) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon(5362) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon(5363) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon(5364) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemHoeXolovon(5365) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaShicaxe(5366) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon2(5367) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon2(5368) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon2(5369) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPoisonSaber(5370) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDonatorSword(5371) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDivineSword(5372) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShuriken(5373) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemVailStorm(5374) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSoundMusic(5375) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemGhastCannon(5376) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMailStrom(5386) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemFrostCannon(5387) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShadowBow(5388) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemInfernoBow(5389) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPoisonBow(5390) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlueBow(5391) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSeranadeDeath(5392) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSandSlash(5393) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood(5394) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5395) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood1(5396) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood(5397) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood(5398) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood(5399) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood(5400) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemChickenDinner(5401) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood(5402) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5403) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5404) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5405) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5406) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5407) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5413) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5414) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5415) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemHealingStone(5416) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5422) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5423) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5424) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5425) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5427) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5428) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5429) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5430) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5431) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5432) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5433) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon(5434) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5436) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5437) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5438) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5439) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5440) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5441) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5442) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5443) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5444) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5445) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5446) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5447) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTomatoSeeds(5448) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemWhiteMushroom(5449) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5450) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemWatcherSpawner(5451) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMysteriousClock(5452) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShard(5453) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5454) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5455) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5456) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5457) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5458) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5459) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5460) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5461) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5462) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5463) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5464) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5465) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5466) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5467) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5468) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon2(5469) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon2(5470) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon2(5471) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordSerenity(5472) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon2(5473) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon2(5474) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon2(5475) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordAzurite(5476) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon2(5477) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon2(5478) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon2(5479) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordEnergy(5480) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon2(5481) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon2(5482) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon2(5483) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordMythril(5484) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPickaxeXolovon2(5485) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAxeXolovon2(5486) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShovelXolovon2(5487) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordDense(5488) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSwordUltima(5489) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowSerenity(5495) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowAzurite(5496) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowEnergy(5497) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowMythril(5498) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowDense(5499) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowUltima(5500) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowTwilight(5501) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSerenitySlicer(5502) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAzuriteSlicer(5503) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnergySlicer(5504) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMythilSlicer(5505) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDenseSlicer(5506) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemUltimaSlicer(5507) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlizSerenity(5509) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlitzAzurite(5510) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlitzEnergy(5511) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlitzMythril(5512) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlitzDense(5513) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlitzUltima(5514) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlitzFury(5516) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPhasersSerenity(5517) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPhasersAzurite(5518) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPhasersEnergy(5519) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPhasersMythril(5520) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPhasersDense(5521) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPhasersUltima(5522) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemIceThrower(5524) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemFireThrower(5525) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5529) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSpawners(5530) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSpawners1(5531) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSpawners2(5532) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSpawners3(5533) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDualSpawner(5534) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDualSpawner(5535) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSpawners4(5536) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSpawners5(5537) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5551) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5552) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5553) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5554) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5555) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemGrowthSerenade(5556) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5557) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5558) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5559) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5560) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5561) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTeleporter(5562) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSharkSword(5564) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemOceanKnife(5565) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCrabCannon(5566) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowCannon(5567) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDualClaw(5568) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSharkAnchor(5569) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemClawAnchor(5570) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBowAncher(5571) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5572) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5573) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5574) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5575) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5576) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovon1(5577) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPinkSeeds(5578) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPurpleSeeds(5579) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBlueSeeds(5580) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood1(5581) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood3(5582) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood3(5583) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood2(5584) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemXolovonFood2(5585) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightClock(5586) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5587) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemTwilightBase(5588) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmor(5590) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5591) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5592) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5593) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5594) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5595) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmor(5596) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5597) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5598) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5599) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5600) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5601) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmor(5602) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5603) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5604) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5605) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5606) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5607) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmor(5608) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5609) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5610) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5611) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5612) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEnderArmorColored(5613) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCrystonalArmor(5614) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCrystonalArmor(5615) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCrystonalArmor(5616) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCrystonalArmor(5617) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorSerenity(5622) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorSerenity(5623) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorSerenity(5624) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorSerenity(5625) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorAzurite(5626) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorAzurite(5627) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorAzurite(5628) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorAzurite(5629) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorEnergy(5630) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorEnergy(5631) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorEnergy(5632) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorEnergy(5633) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorMythril(5634) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorMythril(5635) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorMythril(5636) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorMythril(5637) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorDense(5638) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorDense(5639) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorDense(5640) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorDense(5641) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorUltima(5642) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorUltima(5643) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorUltima(5644) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemArmorUltima(5645) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDonatorArmor(5318) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDonatorArmor(5319) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDonatorArmor(5320) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDonatorArmor(5321) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeJackOMan(5646) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeJackOMan(5647) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeJackOMan(5648) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeJackOMan(5649) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSkeleMan(5650) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSkeleMan(5651) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSkeleMan(5652) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSkeleMan(5653) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeGrimReaper(5654) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeGrimReaper(5655) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeGrimReaper(5656) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeGrimReaper(5657) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSanta(5722) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSanta(5723) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSanta(5724) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemCostumeSanta(5725) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemScythe(5658) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKrakenArmor(4353) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKrakenArmor(4354) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKrakenArmor(4355) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemKrakenArmor(5256) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemNeteriteArmor(5257) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemNeteriteArmor(5258) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemNeteriteArmor(5259) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemNeteriteArmor(5260) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemInfernoArmor(5261) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemInfernoArmor(5262) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemInfernoArmor(5263) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemInfernoArmor(5264) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBedrockArmor(5265) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBedrockArmor(5266) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBedrockArmor(5267) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemBedrockArmor(5268) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmor(5269) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorYellow(5270) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlue(5271) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorGreen(5272) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorRed(5273) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlack(5274) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmor(5275) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorYellow(5276) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlue(5277) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorGreen(5278) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorRed(5279) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlack(5280) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmor(5281) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorYellow(5282) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlue(5283) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorGreen(5284) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorRed(5285) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlack(5286) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmor(5287) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorYellow(5288) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlue(5289) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorGreen(5290) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorRed(5291) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemPlasmaArmorBlack(5292) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemRealmiteArmor(5293) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemRealmiteArmor(5294) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemRealmiteArmor(5295) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemRealmiteArmor(5296) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEliteRealmiteArmor(5297) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEliteRealmiteArmor(5298) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEliteRealmiteArmor(5299) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEliteRealmiteArmor(5300) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAquastriveArmor(5301) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAquastriveArmor(5302) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAquastriveArmor(5303) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAquastriveArmor(5304) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShadowArmor(5306) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShadowArmor(5307) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShadowArmor(5308) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemShadowArmor(5309) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDivineArmor(5310) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDivineArmor(5311) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDivineArmor(5312) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDivineArmor(5313) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAngelArmor(5314) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAngelArmor(5315) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAngelArmor(5316) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemAngelArmor(5317) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5668) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5669) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5670) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5671) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5764) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5765) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5766) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item su(5767) owned by DivineRPG
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Shuriken as DivineRPG.Shuriken
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity VailStrom as DivineRPG.VailStrom
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity PoisonArrow as DivineRPG.PoisonArrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity FireArrow as DivineRPG.FireArrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity ExplosiveArrow as DivineRPG.ExplosiveArrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Stromball as DivineRPG.Stromball
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity MusicBall as DivineRPG.MusicBall
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity GhastTear as DivineRPG.GhastTear
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity FrostShard as DivineRPG.FrostShard
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity KillSerande as DivineRPG.KillSerande
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity BlueFireball as DivineRPG.BlueFireball
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity enderbolt as DivineRPG.enderbolt
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity purplefireball as DivineRPG.purplefireball
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity watchershot as DivineRPG.watchershot
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity serenityarrow as DivineRPG.serenityarrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity energyarrow as DivineRPG.energyarrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity furyarrow as DivineRPG.furyarrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity serenityslicer as DivineRPG.serenityslicer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity azuriteslicer as DivineRPG.azuriteslicer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity energyslicer as DivineRPG.energyslicer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity mythrilslicer as DivineRPG.mythrilslicer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity denseslicer as DivineRPG.denseslicer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity ultimaslicer as DivineRPG.ultimaslicer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity twilightslicer as DivineRPG.twilightslicer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity serenityphaser as DivineRPG.serenityphaser
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity azuritephaser as DivineRPG.azuritephaser
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity energyphaser as DivineRPG.energyphaser
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity mythrilphaser as DivineRPG.mythrilphaser
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity densephaser as DivineRPG.densephaser
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity ultimaphaser as DivineRPG.ultimaphaser
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity twilightphaser as DivineRPG.twilightphaser
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity corishot as DivineRPG.corishot
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity mamormeter as DivineRPG.mamormeter
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity bowcannon as DivineRPG.bowcannon
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity crabcannon as DivineRPG.crabcannon
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity triplet as DivineRPG.triplet
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity caverock as DivineRPG.caverock
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity lamonashot as DivineRPG.lamonashot
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity statuearrow as DivineRPG.statuearrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity firefly as DivineRPG.firefly
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Star Light as DivineRPG.Star Light
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Ender Arrow as DivineRPG.Ender Arrow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Corrupted Shot as DivineRPG.Corrupted Shot
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Reflector as DivineRPG.Reflector
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Sparkler as DivineRPG.Sparkler
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Grenade as DivineRPG.Grenade
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Merik Missile as DivineRPG.Merik Missile
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Caroling Sound as DivineRPG.Caroling Sound
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity alicanto as DivineRPG.alicanto
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity fractite as DivineRPG.fractite
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity glacide as DivineRPG.glacide
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity hastreus as DivineRPG.hastreus
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity frostarcher as DivineRPG.frostarcher
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity rollum as DivineRPG.rollum
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity workshoptickerer as DivineRPG.workshoptickerer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity workshopmerchant as DivineRPG.workshopmerchant
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity dramix as DivineRPG.dramix
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity parasecta as DivineRPG.parasecta
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity rainbour as DivineRPG.rainbour
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity enderspider as DivineRPG.enderspider
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Ayeraco Blue as DivineRPG.Ayeraco Blue
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Ayeraco Green as DivineRPG.Ayeraco Green
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Ayeraco Red as DivineRPG.Ayeraco Red
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Ayeraco Yellow as DivineRPG.Ayeraco Yellow
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity Ayeraco Purple as DivineRPG.Ayeraco Purple
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity wildfire as DivineRPG.wildfire
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] Skipping automatic mod DivineRPG entity registration for already registered class xolova.blued00r.divinerpg.entities.mobs.EntityHellSpider
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity roamer as DivineRPG.roamer
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity deathcryx as DivineRPG.deathcryx
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity deathhound as DivineRPG.deathhound
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity razorback as DivineRPG.razorback
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity constructor as DivineRPG.constructor
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity livingstatue as DivineRPG.livingstatue
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity dungeonprisoner as DivineRPG.dungeonprisoner
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity dungeondemon as DivineRPG.dungeondemon
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod DivineRPG entity captainmerik as DivineRPG.captainmerik
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(674) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(675) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(717) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(421) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemVanillaCombination(539) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(4095) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(429) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(445) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(4093) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(425) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(452) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(534) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(536) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(535) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(451) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(430) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(422) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(499) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(450) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(500) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(516) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemColoredBricks(437) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemSteel(439) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemEmpoweredBlocks(436) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(4094) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(518) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(519) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(520) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(521) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemDyeBlocks(434) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(431) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(432) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(511) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(512) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(513) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(503) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(514) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(515) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(435) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(545) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(546) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(547) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(548) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(549) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(414) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(444) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(532) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(531) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(415) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(443) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(447) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(442) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(533) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(4092) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemColoredVane(413) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(544) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(441) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(405) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(406) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item xolova.blued00r.divinerpg.items.ItemMiniBricks(524) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(218) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(219) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(228) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(433) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(525) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(454) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(453) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(502) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(501) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(438) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(449) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(448) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(504) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(509) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(505) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(506) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(522) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(508) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(523) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(538) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(510) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(517) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(507) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(537) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(446) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(411) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(416) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(410) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(440) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(527) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(526) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(550) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(540) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(528) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(529) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(553) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(552) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(554) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(551) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(190) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(191) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(192) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(193) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(194) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(195) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(196) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(197) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(198) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(199) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(579) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(580) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(581) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(582) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(583) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(189) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(584) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(585) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(588) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(587) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(586) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(589) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(590) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(591) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(592) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(593) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(599) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(600) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(601) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(603) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(602) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(604) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(605) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(606) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(607) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(608) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(609) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(610) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(611) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(612) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(613) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(614) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(615) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(616) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(618) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(617) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(619) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(620) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(621) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(622) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(623) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(624) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(626) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(627) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(628) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(629) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(630) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(631) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(632) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(634) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(633) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(635) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(636) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(637) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(638) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(639) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(640) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(625) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(641) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(642) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(643) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(644) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(645) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(646) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(647) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(648) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(649) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(650) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(651) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(653) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(652) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(654) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(555) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(556) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(557) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(558) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(559) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(560) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(561) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(562) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(563) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(566) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(567) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(568) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(569) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(570) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(571) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(572) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(573) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(574) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(575) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(576) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(577) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(578) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(202) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(404) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(655) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(666) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(656) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(679) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(657) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(658) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(659) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(660) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(661) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(662) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(663) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(664) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(665) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(667) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(669) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(668) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(735) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(736) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(670) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(671) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(672) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(673) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(737) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(738) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(739) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(740) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(691) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(690) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(682) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(683) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(686) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(687) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(684) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(689) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(688) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(692) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(693) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(694) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(695) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(696) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(697) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(698) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(699) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(700) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(702) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(701) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(703) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(704) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(705) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(710) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(706) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(711) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(707) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(712) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(708) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(713) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(709) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(714) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(715) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(200) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(203) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(718) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(719) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(201) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(720) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(721) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(722) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(723) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(724) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(725) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(726) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(727) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(728) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(729) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(730) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(732) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(731) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(741) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(742) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(743) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(744) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(745) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(746) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(747) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(748) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(751) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(749) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(753) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(754) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(755) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(756) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(757) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(758) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(759) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(762) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(760) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(761) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(763) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(764) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(765) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(766) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(767) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(768) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(769) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(750) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(734) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(733) owned by DivineRPG
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(752) owned by DivineRPG
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Names loaded.
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@75f5697a -> 1xitem.chestplateIron@0
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@42e00516 -> 1xitem.chestplateDiamond@0
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@16e09a7 -> 1xitem.helmetIron@0
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@5f3bb3ac -> 1xitem.helmetDiamond@0
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@4891120c -> 1xitem.leggingsIron@0
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@2c37f70c -> 1xitem.bootsIron@0
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@e3c4b82 -> 1xitem.leggingsDiamond@0
+2015-04-16 17:14:01 [INFO] [STDOUT] [DivineRPG] Removed Recipe: wq@18814b1b -> 1xitem.bootsDiamond@0
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod DivineRPG
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPlaceholder(13456) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPortalGunBlue(13457) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPortalGunOrange(13458) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPortalSpawner(13459) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemEnderDust(13466) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPotato(13467) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPlaceholder(13468) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPedestal(13464) owned by PortalGun
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entityblock as PortalGun.portal_entityblock
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entityball as PortalGun.portal_entityball
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entityapg as PortalGun.portal_entityapg
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(1100) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemPlaceholder(13460) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemArmour(13461) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemMulti(13462) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(1101) owned by PortalGun
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entitycube as PortalGun.portal_entitycube
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemRecords(13657) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemRecords(13658) owned by PortalGun
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemRecords(13659) owned by PortalGun
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entityradio as PortalGun.portal_entityradio
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemTurret(13463) owned by PortalGun
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entitybullet as PortalGun.portal_entitybullet
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entityturret as PortalGun.portal_entityturret
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item portalgun.common.item.ItemAFP(13465) owned by PortalGun
+2015-04-16 17:14:01 [FINEST] [ForgeModLoader] Automatically registered mod PortalGun entity portal_entityhep as PortalGun.portal_entityhep
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod PortalGun
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerCore
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerCore
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemParts(9257) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemParts(9258) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemParts(9259) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemParts(9265) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemDrawplate(9264) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemBag(9268) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemDyeIndigo(9260) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemTextured(9266) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemPlan(9267) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemMicro(255) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(254) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemExtended(253) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemHandsaw(9261) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemHandsaw(9262) owned by RedPowerBase
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemScrewdriver(9263) owned by RedPowerBase
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerBase
+2015-04-16 17:14:01 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.machine.ItemVoltmeter(9334) owned by RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemTextured(9335) owned by RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.machine.ItemBattery(9337) owned by RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.machine.ItemSonicDriver(9336) owned by RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.machine.ItemWindmill(9340) owned by RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.machine.ItemWindmill(9341) owned by RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemParts(9339) owned by RedPowerMachine
+2015-04-16 17:14:01 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemExtended(252) owned by RedPowerMachine
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemExtended(251) owned by RedPowerMachine
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.machine.ItemMachinePanel(250) owned by RedPowerMachine
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemExtended(249) owned by RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.compat.ItemMachineCompat(248) owned by RedPowerCompat
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemParts(9343) owned by RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemParts(9269) owned by RedPowerLogic
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.logic.ItemLogic(247) owned by RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(239) owned by RedPowerLighting
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.lighting.ItemLamp(240) owned by RedPowerLighting
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.lighting.ItemLamp(237) owned by RedPowerLighting
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(238) owned by RedPowerLighting
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.lighting.ItemShapedLamp(236) owned by RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomStone(244) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomOre(242) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemStorage(235) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomFlower(241) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomSeeds(9296) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(243) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(245) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomPickaxe(9287) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomPickaxe(9288) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomPickaxe(9289) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomShovel(9284) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomShovel(9285) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomShovel(9286) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomAxe(9290) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomAxe(9291) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomAxe(9292) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomSword(9281) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomSword(9282) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomSword(9283) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemAthame(9297) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomHoe(9293) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomHoe(9294) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemCustomHoe(9295) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9273) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9274) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9275) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9276) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9277) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9278) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9279) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSickle(9280) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemHandsaw(9270) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemHandsaw(9271) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.base.ItemHandsaw(9272) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemWoolCard(9298) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemTextured(9317) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemTextured(9300) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9301) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9318) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9302) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9319) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9303) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9320) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9304) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9321) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9305) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9322) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9306) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9323) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9307) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9324) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9308) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9325) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9309) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9326) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9310) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9327) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9311) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9328) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9312) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9329) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9313) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9330) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9314) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9331) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9315) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9332) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintCan(9316) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemPaintBrush(9333) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.world.ItemSeedBag(9299) owned by RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.control.ItemBackplane(234) owned by RedPowerControl
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemExtended(233) owned by RedPowerControl
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.core.ItemExtended(232) owned by RedPowerControl
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item com.eloraam.redpower.control.ItemDisk(9342) owned by RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLInitializationEvent to mod TombStone
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] [ItemTracker] Adding item vq(3000) owned by TombStone
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLInitializationEvent to mod TombStone
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod mcp
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod mcp
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod mcp
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod FML
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod FML
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod FML
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod Forge
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod Forge
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod Forge
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod DamageIndicatorsMod
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod DivineRPG
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod DivineRPG
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod DivineRPG
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod PortalGun
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod PortalGun
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod PortalGun
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerCore
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerCore
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerCore
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerBase
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerBase
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerBase
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerMachine
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINEST] [ForgeModLoader] Attempting to deliver 0 IMC messages to mod TombStone
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event IMCEvent to mod TombStone
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event IMCEvent to mod TombStone
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod mcp
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod mcp
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod FML
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod FML
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod Forge
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod Forge
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod DivineRPG
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod DivineRPG
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod PortalGun
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod PortalGun
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerCore
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerCore
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerBase
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerBase
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLPostInitializationEvent to mod TombStone
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLPostInitializationEvent to mod TombStone
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod mcp
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod mcp
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod FML
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod FML
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod Forge
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod Forge
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod DivineRPG
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod DivineRPG
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod PortalGun
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod PortalGun
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerCore
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerCore
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerBase
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerBase
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerMachine
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerCompat
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerWiring
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerLogic
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerLighting
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerWorld
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod RedPowerControl
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sending event FMLLoadCompleteEvent to mod TombStone
+2015-04-16 17:14:02 [FINER] [ForgeModLoader] Sent event FMLLoadCompleteEvent to mod TombStone
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Forge Mod Loader has successfully loaded 16 mods
+2015-04-16 17:14:02 [INFO] [Minecraft] Preparing level "BYU"
+2015-04-16 17:14:02 [FINE] [ForgeModLoader] The difference set is equal
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 0 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 11 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 10 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 9 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 8 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 7 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 6 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension -1 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 5 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:02 [INFO] [ForgeModLoader] Loading dimension 1 (BYU) (ho@6542c9ed)
+2015-04-16 17:14:03 [INFO] [Minecraft] Preparing start region for level 0
+2015-04-16 17:14:03 [INFO] [Minecraft] Done (1.119s)! For help, type "help" or "?"
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod mcp
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod mcp
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod FML
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod FML
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod Forge
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod Forge
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod DivineRPG
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod DivineRPG
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod PortalGun
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod PortalGun
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerCore
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerCore
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerBase
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerBase
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerMachine
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerMachine
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerCompat
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerCompat
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerWiring
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerWiring
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerLogic
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerLogic
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerLighting
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerLighting
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerWorld
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerWorld
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod RedPowerControl
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod RedPowerControl
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartingEvent to mod TombStone
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartingEvent to mod TombStone
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod mcp
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod mcp
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod FML
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod FML
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod Forge
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod Forge
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:03 [INFO] [Minecraft] Damage Indicators Mod Mod v.1.0.0.0 is up to date.
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod DamageIndicatorsMod
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod DivineRPG
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod DivineRPG
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod PortalGun
+2015-04-16 17:14:03 [INFO] [PortalGun] [1.4.7v2] Loading world properties.
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod PortalGun
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerCore
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerCore
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerBase
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerBase
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerMachine
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerMachine
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerCompat
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerCompat
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerWiring
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerWiring
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerLogic
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerLogic
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerLighting
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerLighting
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerWorld
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerWorld
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod RedPowerControl
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod RedPowerControl
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sending event FMLServerStartedEvent to mod TombStone
+2015-04-16 17:14:03 [FINER] [ForgeModLoader] Sent event FMLServerStartedEvent to mod TombStone
+2015-04-16 17:46:26 [INFO] [Minecraft] Stopping server
+2015-04-16 17:46:26 [INFO] [Minecraft] Saving players
+2015-04-16 17:46:26 [INFO] [STDERR] java.net.SocketException: socket closed
+2015-04-16 17:46:26 [INFO] [Minecraft] Saving worlds
+2015-04-16 17:46:26 [INFO] [STDERR] 	at java.net.DualStackPlainSocketImpl.accept0(Native Method)
+2015-04-16 17:46:26 [INFO] [STDERR] 	at java.net.DualStackPlainSocketImpl.socketAccept(Unknown Source)
+2015-04-16 17:46:26 [INFO] [STDERR] 	at java.net.AbstractPlainSocketImpl.accept(Unknown Source)
+2015-04-16 17:46:26 [INFO] [STDERR] 	at java.net.PlainSocketImpl.accept(Unknown Source)
+2015-04-16 17:46:26 [INFO] [STDERR] 	at java.net.ServerSocket.implAccept(Unknown Source)
+2015-04-16 17:46:26 [INFO] [STDERR] 	at java.net.ServerSocket.accept(Unknown Source)
+2015-04-16 17:46:26 [INFO] [STDERR] 	at hu.run(ServerListenThread.java:81)
+2015-04-16 17:46:26 [INFO] [STDOUT] Closing listening thread
+2015-04-16 17:46:26 [INFO] [Minecraft] Saving chunks for level 'BYU'/Overworld
